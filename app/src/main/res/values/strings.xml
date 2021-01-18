@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReadBooks</string>
+    <string name="add_book_title">Title *</string>
+    <string name="add_book_author">Author *</string>
+    <string name="add_book_status">Status *</string>
+    <string name="add_book_puntuation">Puntuation</string>
+    <string name="add_book_description">Description</string>
+    <string name="add_button_text">ADD</string>
+    <string name="descripcion">DESCRIPCION</string>
+
+
+</resources>

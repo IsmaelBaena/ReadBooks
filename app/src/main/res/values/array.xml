@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="status_spinner">
+        <item>Dropped</item>
+        <item>Wanted to read</item>
+        <item>Reading</item>
+        <item>Read</item>
+    </string-array>
+</resources>

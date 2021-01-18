@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dropped">#DA0303</color>
+    <color name="wantedToRead">#3F51B5</color>
+    <color name="reading">#D5C108</color>
+    <color name="read">#36BC06</color>
+    <color name="itemBackground">#009688</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+</resources>
